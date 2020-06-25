@@ -1,2 +1,5 @@
 # coursera_ml_python
-para hacer lo que hice de octave pero en python
+
+to do what ive done in octave but in python. 
+
+also to try some python point of view of concepts.
